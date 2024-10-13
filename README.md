@@ -1,0 +1,1 @@
+This project aims to develop a predictive model to determine the likelihood of employee attrition within a company. Using an HR dataset, we build a machine learning model to classify whether an employee is likely to leave the company based on features like age, gender, income, and more.
